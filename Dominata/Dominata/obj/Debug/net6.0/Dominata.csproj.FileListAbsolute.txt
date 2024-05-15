@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Dominata\Dominata\bin\Debug\net6.0\Dominata.exe
+C:\Users\student\source\repos\Dominata\Dominata\bin\Debug\net6.0\Dominata.deps.json
+C:\Users\student\source\repos\Dominata\Dominata\bin\Debug\net6.0\Dominata.runtimeconfig.json
+C:\Users\student\source\repos\Dominata\Dominata\bin\Debug\net6.0\Dominata.dll
+C:\Users\student\source\repos\Dominata\Dominata\bin\Debug\net6.0\Dominata.pdb
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\Dominata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\Dominata.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\Dominata.AssemblyInfo.cs
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\Dominata.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\Dominata.dll
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\refint\Dominata.dll
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\Dominata.pdb
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\Dominata.genruntimeconfig.cache
+C:\Users\student\source\repos\Dominata\Dominata\obj\Debug\net6.0\ref\Dominata.dll
